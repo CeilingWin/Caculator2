@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BTVN_T2_LinearLayout</string>
+    <string name="lb_mode_standard">Standard</string>
+    <string name="btn_mc">MC</string>
+    <string name="btn_mr">MR</string>
+    <string name="btn_mi">M+</string>
+    <string name="btn_md">M-</string>
+    <string name="btn_ms">MS</string>
+    <string name="btn_mm">M</string>
+    <string name="btn_percen">%</string>
+    <string name="btn_CE">CE</string>
+    <string name="btn_C">C</string>
+    <string name="btn_1px">1/x</string>
+    <string name="btn_xbp"><![CDATA[X<sup>2</sup>]]></string>
+    <string name="btn_cbh"><![CDATA[ &radic;<span style="text-decoration: overline">x</span>]]></string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_0">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_multi">X</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_equal">=</string>
+    <string name="btn_pps">+/-</string>
+    <string name="btn_dot"><b>.</b></string>
+    <string name="lb_null">0</string>
+    <string name="result_null">0</string>
+</resources>
